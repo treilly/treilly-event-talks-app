@@ -1,0 +1,44 @@
+[
+    {
+        "title": "The Future of JavaScript",
+        "speakers": ["John Doe"],
+        "category": ["JavaScript", "Web Development"],
+        "duration": 60,
+        "description": "A deep dive into the latest features and upcoming changes in JavaScript."
+    },
+    {
+        "title": "Building Scalable APIs with Node.js",
+        "speakers": ["Jane Smith"],
+        "category": ["Node.js", "APIs", "Backend"],
+        "duration": 60,
+        "description": "Learn how to design and build robust and scalable APIs using Node.js and Express."
+    },
+    {
+        "title": "CSS Grid and Flexbox for Modern Layouts",
+        "speakers": ["Peter Jones"],
+        "category": ["CSS", "Web Design"],
+        "duration": 60,
+        "description": "Master the power of CSS Grid and Flexbox to create complex and responsive web layouts with ease."
+    },
+    {
+        "title": "Introduction to Machine Learning with Python",
+        "speakers": ["Alice Williams", "Bob Brown"],
+        "category": ["Python", "Machine Learning"],
+        "duration": 60,
+        "description": "Get started with machine learning using Python and popular libraries like Scikit-learn and TensorFlow."
+    },
+    {
+        "title": "Securing Your Web Applications",
+        "speakers": ["Charlie Davis"],
+        "category": ["Security", "Web Development"],
+        "duration": 60,
+        "description": "Learn about common web security vulnerabilities and how to protect your applications from attacks."
+    },
+    {
+        "title": "The Rise of Serverless Computing",
+        "speakers": ["Diana Miller"],
+        "category": ["Serverless", "Cloud Computing"],
+        "duration": 60,
+        "description": "Explore the world of serverless computing and learn how to build and deploy applications without managing servers."
+    }
+]
